@@ -1,3 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farooq13&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farooq13&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/farooq13?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/farooq13?style=social" alt="GitHub stars" />
+</p>
